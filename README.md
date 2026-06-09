@@ -16,7 +16,7 @@ Proyek ini dibangun bersama tim dengan pembagian fokus pengerjaan sebagai beriku
 * **UI/UX & Login System:** Teman saya bertanggung jawab penuh atas perancangan desain visual (UI/UX), pengerjaan halaman *frontend*, serta integrasi sistem *login* dan fitur-fitur lainnya.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Frontend:** [Misal: HTML, CSS, JavaScript / Vue.js / Tailwind]
-* **Backend:** [Misal: PHP / Laravel / CodeIgniter]
-* **Database:** [Misal: MySQL / PostgreSQL]
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** PHP
+* **Database:** MySQL
 * **Fitur Tambahan:** Library pemindai QR Code.
